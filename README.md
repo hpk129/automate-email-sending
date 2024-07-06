@@ -2,6 +2,8 @@
 ![image](https://github.com/hpk129/automate-email-sending/assets/118120087/c7accd34-cd6e-4525-bd18-5c2ded44358f)
 
 
+
+
 --> Identity Access Management role
 ![image](https://github.com/hpk129/automate-email-sending/assets/118120087/97b7c69a-c3c9-4a06-b410-bfcf15129fff)
 
