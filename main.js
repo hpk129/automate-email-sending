@@ -24,12 +24,12 @@ exports.handler = async (event) => {
     Source: 'hpkaur.129@gmail.com'
   };
 
-  try {
-    const data = await ses.sendEmail(params).promise();
-    console.log('Successfully sent email:', data.MessageId);
-    return { statusCode: 200, body: 'Email sent successfully' };
-  } catch (error) {
-    console.error('Error sending email:', error);
-    return { statusCode: 500, body: 'Failed to send email' };
-  }
-};
+//   try {
+//     const data = await ses.sendEmail(params).promise();
+//     console.log('Successfully sent email:', data.MessageId);
+//     return { statusCode: 200, body: 'Email sent successfully' };
+//   } catch (error) {
+//     console.error('Error sending email:', error);
+//     return { statusCode: 500, body: 'Failed to send email' };
+//   }
+// };
